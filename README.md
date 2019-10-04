@@ -1,6 +1,6 @@
-* API Example
+# API Example
 
-** Requirements
+## Requirements
 
 You'll need npm and a terminal to run this project. Open a terminal and run these commands.
 
